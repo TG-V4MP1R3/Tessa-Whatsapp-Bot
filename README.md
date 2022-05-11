@@ -18,7 +18,7 @@ Project created by <a href="https://github.com/V4MP1R3">V4MP1R3</a> to make it p
  ## Setup
 <div align="center">
   
- NEW WHATSAPP UPDATION QR CODE ERROR NOT SOLVED
+ NEW WHATSAPP UPDATION , QR CODE ERROR NOT SOLVED
 
   ### Simple Method
   
