@@ -1,0 +1,99 @@
+{
+    "name": "Tessa",
+    "logo": "https://telegra.ph/file/c6b8c8666e7e25f7d5baa.jpg",
+    "description": " Whatsapp bot.",
+    "keywords": [
+        "whatsapp",
+        "bot"
+    ],
+    "stack": "container",
+    "env": {
+        "ASENA_SESSION": {
+            "description": "Enter whatsapp web session.",
+            "required": true
+        },
+        "SUDO": {
+            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
+            "required": false
+        },
+        "HANDLERS": {
+            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
+            "required": true,
+            "value": "."
+        },
+        "SEND_READ": {
+            "description": "send read receipt.",
+            "required": false,
+            "value": "true"
+        },
+        "HEROKU": {
+            "description": "Enable heroku features",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Enter Heroku API Key.",
+            "required": true
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Enter Heroku APP Name.",
+            "required": true
+        },
+        "DEBUG": {
+            "description": "debug",
+            "required": false,
+            "value": "false"
+        },
+        "CLR_SESSION": {
+            "description": "Enter true to delete old session.",
+            "required": false,
+            "value": "false"
+        },
+        "NO_ONLINE": {
+            "description": "set true to hide online.",
+            "required": false,
+            "value": "true"
+        },
+        "WARN_COUNT": {
+            "description": "Maximum no of warns",
+            "required": false,
+            "value": "3"
+        },
+        "WARN_MSG": {
+            "description": "Message send while kicking.",
+            "required": false,
+            "value": "OK bie"
+        },
+        "REMOVEBG_KEY": {
+            "description": "key from remove.bg",
+            "required": false,
+            "value": "null"
+        },
+        "LANGUAGE": {
+            "description": "Enter bot language, example EN for English, ID for Bahasa Indonesia, TR for Turkish",
+            "value": "EN"
+        },
+        "STICKER_PACKNAME": {
+            "description": "Sticker pack name,author",
+            "value": "ᴍᴀᴅᴇ ʙʏ ᴛᴇssᴀ"
+        },
+        "DISABLE_BOT": {
+            "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
+            "value": "null"
+        },
+        "FIND_API_KEY": {
+            "description": "key from https://dashboard.audd.io/",
+            "value": "null"
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ],
+    "buildpacks": [
+        {
+            "url": "heroku-community/apt"
+        }
+    ]
+}
