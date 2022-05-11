@@ -54,4 +54,4 @@ This is an open source project, you are responsible for everything you do.
 | [![TG-V4MP1R3](https://github.com/TG-V4MP1R3.png?size=200)](https://github.com/TG-V4MP1R3) |[![NR-S4SUK3.](https://github.com/NR-S4SUK3.png?size=200)](https://github.com/NR-S4SUK3) |
 |----|----|
 | [T G - V 4 M P 1 R 3](https://github.com/TG-V4MP1R3) | [N R - S 4 S U K 3](https://github.com/NR-S4SUK3) | 
-|   Re developed,Modules,Author  |      updates, Base , Bug fixes   |
+|    developed,Modules,Author  |      updates, Base , Bug fixes   |
