@@ -22,16 +22,16 @@ Project created by <a href="https://github.com/V4MP1R3">V4MP1R3</a> to make it p
 
   ### Simple Method
   
-Click [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+Click [SCAN](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Tessa-Whatsapp-Bot)   
   
  If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/TG-V4MP1R3/Tessa-Whatsapp-Bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Tessa-Whatsapp-Bot) -->
   
   
 ## 📢 Guide
@@ -44,7 +44,8 @@ Click WA logo to Join Bot Working Group 👇
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
+This is an open source project, you are responsible for everything you do.
+So Try to Deploy This Bot in Fake number
   
 ```
   
