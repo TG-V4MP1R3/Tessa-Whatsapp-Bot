@@ -46,7 +46,6 @@ Click WA logo to Join Bot Working Group 👇
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do.
 So Try to Deploy This Bot in Fake number
-  
 ```
   
   ##  Developers
